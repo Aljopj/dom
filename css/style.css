@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hi{
+   background-color: black;
+   color: white;
+   padding: 20px 30px;
+   margin-left:50px;
+   margin-top: 50px; 
+}
